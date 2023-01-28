@@ -5,7 +5,7 @@ Our project features several feeds of various popular locations around Kingston!
 
 Our project uses municipal live feeds of the City of Kingston from <a href="https://www.cityofkingston.ca/explore/webcams">https://www.cityofkingston.ca/explore/webcams</a>.
 
-We registered the domain <b>envirovision.tech</b> with Domain.com, courtesy of the QHACKS/MLH discount!
+We registered the domain <b><a href="envirovision.tech">envirovision.tech</a></b> with Domain.com, courtesy of the QHACKS/MLH discount!
 
 # Our Team
 
