@@ -7,6 +7,8 @@ Our project uses municipal live feeds of the City of Kingston from <a href="http
 
 We registered the domain <b><a href="https://www.envirovision.tech">envirovision.tech</a></b> with Domain.com, courtesy of the QHACKS/MLH discount!
 
+We used <b>Velo by Wix</b> to integrate some features of our project.
+
 # Our Team
 
 ## David "Aur Naur" Courtis
