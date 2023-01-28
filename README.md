@@ -7,10 +7,10 @@ Our project uses municipal live feeds of the City of Kingston from <a href="http
 
 # Our Team
 
-## David Courtis
+## David "Aur Naur" Courtis
 
-## Amy Cui
+## Amy ":)" Cui
 
-## Daniel Dickson
+## Daniel "You're Doing Great" Dickson
 
-## Mercy Doan
+## Mercy "wHY nOOOOOOT" Doan
