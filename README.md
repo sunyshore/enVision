@@ -3,7 +3,7 @@ Mercy's Mom is a free-to-use online web service that will help you plan out your
 
 Our project features several feeds of various popular locations around Kingston! Each feed will also have an estimate of the number of people and compare to an approximate maximum capacity, telling you if the space is barren or crowded. It will also recommend various times to arrive that are typically less crowded to help you better plan your trip.
 
-Our project uses municipal live feeds of the City of Kingston from <a href="https://www.cityofkingston.ca/explore/webcams"></a>.
+Our project uses municipal live feeds of the City of Kingston from <a href="https://www.cityofkingston.ca/explore/webcams">https://www.cityofkingston.ca/explore/webcams</a>.
 
 # Our Team
 
