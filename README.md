@@ -8,11 +8,10 @@ Our project uses municipal live feeds of the City of Kingston from <a href="http
 We registered the domain <b><a href="https://www.envirovision.tech">envirovision.tech</a></b> with Domain.com, courtesy of the QHACKS/MLH discount!
 
 # Our Team
+Backend: David C.
 
-## David "Aur Naur" Courtis
+Frontend: Dan D.
 
-## Amy ":)" Cui
+AI: Mercy D.
 
-## Daniel "You're Doing Great" Dickson
-
-## Mercy "wHY nOOOOOOT" Doan
+UI/UX: Amy C.
