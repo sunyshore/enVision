@@ -11,13 +11,13 @@ Oh, our repository looks a bit barren? Here's all of our code.
 
 <a href="https://github.com/sunyshore/srcnn">Satellite Image Upscaling</a>
 
-<a href="https://github.com/RelativelyFine/Parking-Detection">Parking Image Analysis</a>
+<a href="https://github.com/RelativelyFine/Parking-Detection">Parking Image Analysis</a> (crowd counting analysis is under the 'Ultralytics' folder)
 
 
 # How It Works
 Our project uses municipal <a href="https://www.cityofkingston.ca/explore/webcams">live feeds of the City of Kingston</a>.
 
-The AI model is trained on a dataset of public satellite imagery which we used Convolutional Neural Networks to upscale <b><a href="https://github.com/sunyshore/srcnn">here</a></b>. Then, we compared multiple Computer Vision models, and chose between Transformers, CNN, and R-CNN models to perform image analysis.
+The AI model is trained on a dataset of public satellite imagery which we used Convolutional Neural Networks to upscale <b><a href="https://github.com/sunyshore/srcnn">here</a></b>. Then, we compared multiple Computer Vision models, and chose between Transformers, CNN, and R-CNN models to perform <a href="https://github.com/RelativelyFine/Parking-Detection">image analysis</a>.
 
 We registered the domain <b><a href="https://www.envirovision.tech">envirovision.tech</a></b> with Domain.com, courtesy of the QHACKS/MLH discount!
 
@@ -25,11 +25,6 @@ We used <b>Velo by Wix</b> to integrate some features of our project.
 
 
 # Our Team
-Backend: David C.
-
-Frontend: Dan D.
-
-AI: Mercy D.
-
-UI/UX: Amy C.
+AI/Backend: David, Mercy
+UI/Frontend: Amy, Dan
 
