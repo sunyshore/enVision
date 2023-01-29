@@ -11,6 +11,8 @@ Oh, our repository looks a bit barren? Here's all of our code.
 
 <a href="https://github.com/sunyshore/srcnn">Satellite Image Upscaling</a>
 
+<a href="https://github.com/RelativelyFine/Parking-Detection">Parking Image Analysis</a>
+
 
 # How It Works
 Our project uses municipal <a href="https://www.cityofkingston.ca/explore/webcams">live feeds of the City of Kingston</a>.
